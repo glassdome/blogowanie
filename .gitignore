@@ -1,0 +1,6 @@
+public/scripts/app.js
+node_modules
+package-lock.json
+.DS_store
+public/bundle.js
+
